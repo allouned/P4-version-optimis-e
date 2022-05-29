@@ -12,6 +12,9 @@ button {
     transition: all .3s ease-in-out;
     outline: none!important;
 }
+.col-sm-4{
+    font-size: 18px;
+}
 
 a:hover {
     text-decoration: none;
@@ -476,7 +479,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 40px!important;
 }
 
 .icon-lg {
@@ -677,7 +680,7 @@ a {
 }
 
 p {
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -701,8 +704,11 @@ p {
 
 .social {
     max-width: 400px;
-    padding: 3px;
     margin: auto auto auto auto;
+}
+.fa{
+    padding: 2px;
+    margin-bottom: 7px;
 }
 
 h2 {
